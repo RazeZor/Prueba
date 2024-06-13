@@ -11,5 +11,6 @@ import java.util.ArrayList;
 public class AlmacenamientoRobots {
     ArrayList<Robot> robots=new ArrayList();
     public AlmacenamientoRobots() {
+        //hola mundo
     }
 }

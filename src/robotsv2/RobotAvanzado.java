@@ -8,6 +8,7 @@ package robotsv2;
  *
  * @author Ninjakiller
  */
+//olaPapu
 public class RobotAvanzado extends Robot {
 
     private boolean tieneSensorInfrarojoDelantero;

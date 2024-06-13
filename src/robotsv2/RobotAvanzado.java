@@ -10,6 +10,7 @@ package robotsv2;
  */
 //olaPapu
 //prueba 2
+// EL capi se la come
 public class RobotAvanzado extends Robot {
 
     private boolean tieneSensorInfrarojoDelantero;
